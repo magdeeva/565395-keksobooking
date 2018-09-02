@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сабина](https://up.htmlacademy.ru/javascript/15/user/565395).
-* Наставник: `Неизвестно`.
+* Наставник: `Магомед`.
 
 ---
 
